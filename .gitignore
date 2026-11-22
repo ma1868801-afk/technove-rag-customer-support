@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+chroma_db/
+conversation_state.sqlite
+conversation_state.sqlite-*
+eval/results.json
+.venv/
+venv/
+*.egg-info/

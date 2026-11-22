@@ -1,0 +1,37 @@
+[
+  {"id": "p01", "lang": "en", "query": "What's the price of the NovaPhone X12 Pro?", "expected_titles": ["NovaPhone X12 Pro (256GB)"]},
+  {"id": "p02", "lang": "en", "query": "Do you sell a foldable phone?", "expected_titles": ["VoltEdge Flip 3 (Foldable, 256GB)"]},
+  {"id": "p03", "lang": "en", "query": "I need a laptop for gaming with RTX graphics", "expected_titles": ["ZenCore Gamer 15 (i7/16GB/512GB/RTX)"]},
+  {"id": "p04", "lang": "en", "query": "Is there a Chromebook available?", "expected_titles": ["PulseOne Chrome 11 (Chromebook)"]},
+  {"id": "p05", "lang": "en", "query": "I want a tablet for a young kid", "expected_titles": ["PulseOne Kids Tab 8 (32GB)"]},
+  {"id": "p06", "lang": "en", "query": "Do you have a robot vacuum?", "expected_titles": ["ZenCore Robot Vacuum"]},
+  {"id": "p07", "lang": "en", "query": "I'm looking for a video doorbell", "expected_titles": ["OrbitHome Video Doorbell"]},
+  {"id": "p08", "lang": "en", "query": "What noise-cancelling earbuds do you have?", "expected_titles": ["NovaBuds Air 2 Pro (ANC)", "VoltEdge Sound Pods ANC", "OrbitSound Headphones ANC Max"]},
+  {"id": "p09", "lang": "en", "query": "Do you sell VR headsets?", "expected_titles": ["OrbitPlay VR Headset"]},
+  {"id": "p10", "lang": "en", "query": "I need a portable USB-C monitor for my laptop", "expected_titles": ["NovaView Portable 15\" USB-C Monitor"]},
+  {"id": "p11", "lang": "en", "query": "Do you have a label printer?", "expected_titles": ["ZenCore Label Printer"]},
+  {"id": "p12", "lang": "en", "query": "Is there a mesh WiFi system for a big house?", "expected_titles": ["NovaLink Mesh WiFi 6 (2-pack)"]},
+  {"id": "p13", "lang": "en", "query": "I want a smart thermostat for my home", "expected_titles": ["PulseOne Smart Thermostat"]},
+  {"id": "p14", "lang": "en", "query": "Do you have a mini drone with a camera?", "expected_titles": ["PulseOne Drone Cam Mini"]},
+
+  {"id": "f01", "lang": "en", "query": "My phone battery drains really fast, what should I do?", "expected_titles": ["The battery on my new phone/laptop drains very quickly."]},
+  {"id": "f02", "lang": "en", "query": "The delivery driver was really rude to me, how do I complain?", "expected_titles": ["The delivery driver was rude to me. How do I report this?"]},
+  {"id": "f03", "lang": "en", "query": "How long do I have to return something I bought?", "expected_titles": ["How long do I have to return a product?"]},
+  {"id": "f04", "lang": "en", "query": "Money was taken from my card but my order wasn't confirmed", "expected_titles": ["My payment was deducted but the order wasn't confirmed."]},
+  {"id": "f05", "lang": "en", "query": "Can I pay for my order in installments?", "expected_titles": ["Can I pay in installments?"]},
+  {"id": "f06", "lang": "en", "query": "Can I return an item if I simply changed my mind about it?", "expected_titles": ["I want to return a product because I simply changed my mind. Is that allowed?"]},
+  {"id": "f07", "lang": "en", "query": "Will rooting my phone void the warranty?", "expected_titles": ["Is the warranty void if I install third-party software or root/jailbreak my device?"]},
+  {"id": "f08", "lang": "en", "query": "Can I talk to a real human instead of a chatbot?", "expected_titles": ["Is there a way to speak to a human instead of a chatbot?"]},
+  {"id": "f09", "lang": "en", "query": "Do you deliver outside of Jeddah city?", "expected_titles": ["Do you deliver to areas outside Jeddah?"]},
+  {"id": "f10", "lang": "en", "query": "I opened my delivery and it was someone else's order", "expected_titles": ["I received someone else's order instead of mine."]},
+
+  {"id": "b01", "lang": "en", "query": "What's the nearest branch if I live in Al Naeem?", "expected_titles": ["TechNova Al Salamah Branch"]},
+  {"id": "b02", "lang": "en", "query": "I live in Obhur South, which branch should I visit?", "expected_titles": ["TechNova Obhur Branch"]},
+  {"id": "b03", "lang": "en", "query": "Which branch has a premium flagship product showroom?", "expected_titles": ["TechNova Al Hamra Branch"]},
+  {"id": "b04", "lang": "en", "query": "What's the phone number for the branch in Al Balad?", "expected_titles": ["TechNova Al Balad Branch"]},
+
+  {"id": "ar01", "lang": "ar", "query": "بطارية جوالي تفرغ بسرعة، أسوي ايش؟", "reference_english": "My phone battery drains fast, what should I do?", "expected_titles": ["The battery on my new phone/laptop drains very quickly."]},
+  {"id": "ar02", "lang": "ar", "query": "وين اقرب فرع لي وانا ساكن في حي النعيم؟", "reference_english": "Where's the nearest branch, I live in Al Naeem district?", "expected_titles": ["TechNova Al Salamah Branch"]},
+  {"id": "ar03", "lang": "ar", "query": "أبغى أرجع منتج لاني غيرت رأيي بس", "reference_english": "I want to return a product because I just changed my mind", "expected_titles": ["I want to return a product because I simply changed my mind. Is that allowed?"]},
+  {"id": "ar04", "lang": "ar", "query": "عندكم ساعة ذكية للأطفال فيها تتبع مكان؟", "reference_english": "Do you have a kids smartwatch with location tracking?", "expected_titles": ["OrbitWatch Kids GPS"]}
+]
