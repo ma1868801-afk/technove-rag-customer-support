@@ -89,3 +89,7 @@ The listed features describe the project's implemented design and components; de
 ---
 
 **Developed as an AI Engineering portfolio project.**
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main-interface.png)
