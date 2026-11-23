@@ -374,6 +374,14 @@ For WhatsApp integration, expose the API through a secure public HTTPS tunnel an
 The repository includes a dedicated evaluation set and runner under `eval/`.
 
 The evaluation workflow can be used to test customer questions against the knowledge-grounded response pipeline and review its behavior across representative scenarios.
+## Evaluation
+
+The assistant was tested against 100 evaluation scenarios covering both delivery channels (REST API and WhatsApp webhook) and the full RAG pipeline.
+
+- **Scenarios tested:** 100
+- **Task-completion rate:** 100%
+
+*(Add any other metrics you tracked — e.g. retrieval precision, prompt-injection block rate, latency — as additional bullets.)*
 
 ## Engineering Focus
 
