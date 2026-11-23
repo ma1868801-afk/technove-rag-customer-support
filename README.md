@@ -381,7 +381,7 @@ The assistant was tested against 100 evaluation scenarios covering both delivery
 - **Scenarios tested:** 100
 - **Task-completion rate:** 100%
 
-*(Add any other metrics you tracked — e.g. retrieval precision, prompt-injection block rate, latency — as additional bullets.)*
+
 
 ## Engineering Focus
 
